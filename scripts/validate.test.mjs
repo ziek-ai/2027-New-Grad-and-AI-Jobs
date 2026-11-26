@@ -74,3 +74,10 @@ test("identity strips utm params", () =>
 		}),
 		"https://jobs.ashbyhq.com/example/one",
 	));
+
+test("non-US locations are rejected", () =>
+	assert.throws(() => validate([{ ...job, location: "London" }]), /Non-US/),
+);
+test("early_career is rejected", () =>
+	assert.throws(() => validate([{ ...job, careerLevel: "early_career", role: "Early Career Engineer" }]), /new_grad/),
+);

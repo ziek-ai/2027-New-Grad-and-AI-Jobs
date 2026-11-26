@@ -1,21 +1,15 @@
 # Contributing (maintainers)
 
-Public GitHub surface is the README jobs table only.
+Public README is the US new-grad jobs table only.
 
-Local Jobs DB (not shown in README):
-
-| Path | Purpose |
-| --- | --- |
-| `data/companies.json` | Company registry |
-| `data/jobs.json` | Job rows (source of truth) |
-| `data/SCHEMA.md` | Field reference |
-| `logos/` | Logos used in the README table |
-| `companies/` · `jobs/` · `indexes/` | Generated locally via `npm run generate` (gitignored) |
-
-No internships or co-ops.
+Rules:
+- `careerLevel` must be `new_grad`
+- US locations only
+- No internships / co-ops
+- Direct employer ATS links
 
 ```sh
 npm test
-npm run generate   # refreshes README table + local maintainer cards
+npm run generate
 npm run check
 ```

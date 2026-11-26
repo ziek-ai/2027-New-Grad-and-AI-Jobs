@@ -50,26 +50,6 @@
     "notes": "No sponsorship stated on graduate postings."
   },
   {
-    "id": "C006",
-    "name": "The Brattle Group",
-    "website": "https://www.brattle.com",
-    "careersUrl": "https://job-boards.greenhouse.io/thebrattlegroup",
-    "logoPath": "logos/the-brattle-group.png",
-    "hq": "Boston, MA",
-    "about": "Economic consulting; Data and AI Engineer early-career track.",
-    "notes": "No immigration sponsorship stated."
-  },
-  {
-    "id": "C007",
-    "name": "Wonderschool",
-    "website": "https://www.wonderschool.com",
-    "careersUrl": "https://job-boards.greenhouse.io/wonderschool",
-    "logoPath": "logos/wonderschool.svg",
-    "hq": "San Francisco, CA",
-    "about": "Early childhood platform; early-career applied AI engineering.",
-    "notes": "Strong in-office expectation (review posting)."
-  },
-  {
     "id": "C008",
     "name": "Whatnot",
     "website": "https://www.whatnot.com",

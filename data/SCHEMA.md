@@ -15,9 +15,9 @@ Machine-readable new-grad / early-career catalog. **Internships and co-ops are r
 
 ## `careerLevel` allow-list
 
-`new_grad` · `early_career` · `entry`
+`new_grad` only (US roles)
 
-Not allowed: `internship`, `co_op`, or anything else.
+Not allowed: internships, co-ops, early_career/entry, or non-US locations.
 
 ## `category` allow-list
 

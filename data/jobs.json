@@ -27,7 +27,7 @@
     "requisitionId": "gh:4731594005",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J002",
@@ -57,7 +57,7 @@
     "requisitionId": "gh:4114318009",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J003",
@@ -87,7 +87,7 @@
     "requisitionId": "gh:8962912002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J004",
@@ -117,7 +117,7 @@
     "requisitionId": "gh:8696080002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J005",
@@ -147,7 +147,7 @@
     "requisitionId": "gh:8906198002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J006",
@@ -177,67 +177,7 @@
     "requisitionId": "gh:8932692002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
-  },
-  {
-    "id": "J007",
-    "companyId": "C006",
-    "company": "The Brattle Group",
-    "role": "Data and AI Engineer, July 2027",
-    "category": "Data",
-    "careerLevel": "early_career",
-    "location": "San Francisco, CA",
-    "workplace": "onsite",
-    "salaryMinUsd": 100000,
-    "salaryMaxUsd": 126000,
-    "salaryType": "Anticipated base",
-    "eligibility": "Early-career; no immigration sponsorship",
-    "summary": "Data engineering, ML, applied analytics and AI-enabled client delivery.",
-    "description": "Data and AI Engineer (July 2027 start) — data engineering, ML, applied analytics, and AI-enabled client delivery at The Brattle Group. No immigration sponsorship.",
-    "applyUrl": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005",
-    "plannedPostDateEt": "2026-12-03",
-    "publishStatus": "planned",
-    "publishedAtEt": null,
-    "linkedinPostUrl": null,
-    "sourceReviewedAt": "2026-11-26",
-    "logoPath": "logos/the-brattle-group.png",
-    "notes": "Recheck job availability and requirements before posting.",
-    "parentLinkedInPostId": "LI-20261203-1230-HJ02-01",
-    "provider": "greenhouse",
-    "requisitionId": "gh:4751955005",
-    "status": "active",
-    "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
-  },
-  {
-    "id": "J008",
-    "companyId": "C007",
-    "company": "Wonderschool",
-    "role": "Early Career Software Engineer, Applied AI",
-    "category": "AI",
-    "careerLevel": "early_career",
-    "location": "San Francisco, CA",
-    "workplace": "onsite",
-    "salaryMinUsd": 100000,
-    "salaryMaxUsd": 120000,
-    "salaryType": "Expected annual compensation",
-    "eligibility": "Early-career; review 5–6 days in-office expectation",
-    "summary": "Agentic automation, full-stack development and customer workflows.",
-    "description": "Early Career Software Engineer, Applied AI — agentic automation, full-stack development, and customer workflows. Strong in-office expectation.",
-    "applyUrl": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
-    "plannedPostDateEt": "2026-12-03",
-    "publishStatus": "planned",
-    "publishedAtEt": null,
-    "linkedinPostUrl": null,
-    "sourceReviewedAt": "2026-11-26",
-    "logoPath": "logos/wonderschool.svg",
-    "notes": "Recheck job availability and requirements before posting.",
-    "parentLinkedInPostId": "LI-20261203-1230-HJ02-01",
-    "provider": "greenhouse",
-    "requisitionId": "gh:6359139003",
-    "status": "active",
-    "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J009",
@@ -267,7 +207,7 @@
     "requisitionId": "ashby:29bad846-de60-4be7-a222-69b97e044930",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J010",
@@ -297,7 +237,7 @@
     "requisitionId": "ashby:38814ce7-217b-40f2-9ba5-8a7733a5691d",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J011",
@@ -327,7 +267,7 @@
     "requisitionId": "ashby:149f368c-52d5-408f-ba26-ad888f318a00",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J012",
@@ -357,7 +297,7 @@
     "requisitionId": "ashby:927c74a5-1b40-490d-b3be-a29baec4db6f",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J013",
@@ -387,7 +327,7 @@
     "requisitionId": "gh:8948841002",
     "status": "active",
     "addedAt": "2026-11-26T18:42:53.054Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J014",
@@ -417,7 +357,7 @@
     "requisitionId": "gh:8924635002",
     "status": "active",
     "addedAt": "2026-11-26T18:42:53.054Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   },
   {
     "id": "J015",
@@ -447,66 +387,6 @@
     "requisitionId": "ashby:d9c445da-c7b4-43a3-8d71-d367681c3015",
     "status": "active",
     "addedAt": "2026-11-26T18:42:53.054Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
-  },
-  {
-    "id": "J016",
-    "companyId": "C010",
-    "company": "Sierra",
-    "role": "Software Engineer, Agent (New Grad 2027)",
-    "category": "AI",
-    "careerLevel": "new_grad",
-    "location": "Singapore",
-    "workplace": "onsite",
-    "salaryMinUsd": null,
-    "salaryMaxUsd": null,
-    "salaryType": null,
-    "eligibility": "New Grad 2027",
-    "summary": "Production AI agents — Singapore onsite New Grad 2027 SWE track.",
-    "description": "Sierra Software Engineer, Agent (New Grad 2027) — Singapore. Same Agent SWE new-grad program as SF/NY locations; on-site.",
-    "applyUrl": "https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce",
-    "plannedPostDateEt": "2026-11-26",
-    "publishStatus": "planned",
-    "publishedAtEt": null,
-    "linkedinPostUrl": null,
-    "sourceReviewedAt": "2026-11-26",
-    "logoPath": "logos/sierra-mark.png",
-    "notes": "Additional location from Sierra board; Grace Gong list company.",
-    "parentLinkedInPostId": "LI-GRACE-OMR-298",
-    "provider": "ashby",
-    "requisitionId": "ashby:79953d72-60d4-43e0-8c8c-6eccda422dce",
-    "status": "active",
-    "addedAt": "2026-11-26T18:42:53.054Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
-  },
-  {
-    "id": "J017",
-    "companyId": "C010",
-    "company": "Sierra",
-    "role": "Software Engineer, Agent (New Grad 2027)",
-    "category": "AI",
-    "careerLevel": "new_grad",
-    "location": "London",
-    "workplace": "onsite",
-    "salaryMinUsd": null,
-    "salaryMaxUsd": null,
-    "salaryType": null,
-    "eligibility": "New Grad 2027",
-    "summary": "Production AI agents — London onsite New Grad 2027 SWE track.",
-    "description": "Sierra Software Engineer, Agent (New Grad 2027) — London. Agent SWE new-grad program; on-site.",
-    "applyUrl": "https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db",
-    "plannedPostDateEt": "2026-11-26",
-    "publishStatus": "planned",
-    "publishedAtEt": null,
-    "linkedinPostUrl": null,
-    "sourceReviewedAt": "2026-11-26",
-    "logoPath": "logos/sierra-mark.png",
-    "notes": "Additional location from Sierra board; Grace Gong list company.",
-    "parentLinkedInPostId": "LI-GRACE-OMR-298",
-    "provider": "ashby",
-    "requisitionId": "ashby:d0e78ab0-92ac-4fec-a667-837fa371b1db",
-    "status": "active",
-    "addedAt": "2026-11-26T18:42:53.054Z",
-    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+    "lastVerifiedAt": "2026-11-26T19:45:39.741Z"
   }
 ]

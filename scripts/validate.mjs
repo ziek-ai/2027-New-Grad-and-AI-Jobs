@@ -34,7 +34,8 @@ const JOB_KEYS = [
 
 const COMPANY_KEYS = ["id", "name", "website", "careersUrl", "logoPath", "hq", "about", "notes"];
 
-const CAREER_LEVELS = new Set(["new_grad", "early_career", "entry"]);
+const CAREER_LEVELS = new Set(["new_grad"]);
+const NON_US_LOCATION = /\b(singapore|london|uk|united kingdom|canada|toronto|berlin|tel aviv|israel|uae|abu dhabi|stockholm|sweden|cyprus|larnaca|paris|france|tokyo|japan)\b/i;
 const FORBIDDEN_LEVELS = new Set(["internship", "co_op"]);
 const CATEGORIES = new Set(["AI", "ML", "SWE", "FDE", "Data", "Infrastructure", "Research"]);
 const WORKPLACES = new Set(["remote", "hybrid", "onsite", "unknown"]);
@@ -103,7 +104,8 @@ export function validate(jobs, companies = null) {
 		ids.add(job.id);
 		if (FORBIDDEN_LEVELS.has(job.careerLevel) || /intern|co-?op|co op/i.test(job.role))
 			throw Error(`Internships/co-ops are not allowed: ${job.id}`);
-		if (!CAREER_LEVELS.has(job.careerLevel)) throw Error(`Unknown career level: ${job.careerLevel}`);
+		if (!CAREER_LEVELS.has(job.careerLevel)) throw Error(`Only new_grad careerLevel is allowed: ${job.id}`);
+		if (NON_US_LOCATION.test(job.location)) throw Error(`Non-US location not allowed: ${job.id}`);
 		if (!CATEGORIES.has(job.category)) throw Error("Unknown job function");
 		if (!WORKPLACES.has(job.workplace)) throw Error("Unknown workplace");
 		if (!STATUSES.has(job.status)) throw Error("Invalid status");
