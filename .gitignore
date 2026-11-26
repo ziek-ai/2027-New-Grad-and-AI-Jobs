@@ -1,7 +1,6 @@
-# Generated maintainer views — run `npm run generate` locally
+# Detailed company/job cards stay local unless a maintainer opts in
 companies/
 jobs/
-indexes/
 
 # Local env / OS
 .env

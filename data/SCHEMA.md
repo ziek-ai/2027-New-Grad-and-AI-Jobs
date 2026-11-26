@@ -9,9 +9,10 @@ Machine-readable new-grad / early-career catalog. **Internships and co-ops are r
 | `data/companies.json` | Company registry (`C###`) with website, careers URL, logo, HQ, about |
 | `data/jobs.json` | Job rows (`J###`) with salary, eligibility, summary/description, apply URL, publish plan |
 | `logos/` | Official employer marks referenced by `logoPath` |
-| `companies/` | Human-readable company cards (generated) |
-| `jobs/` | Human-readable job cards (generated) |
-| `indexes/` | Generated indexes by company, level, function, salary, recent |
+| `README.md` | Public company-first career discovery catalog (generated between `CATALOG` markers) |
+| `indexes/` | Public generated indexes by company, career direction/function, level, salary, recent |
+| `companies/` | Local maintainer company cards (generated; gitignored) |
+| `jobs/` | Local maintainer job cards (generated; gitignored) |
 
 ## `careerLevel` allow-list
 

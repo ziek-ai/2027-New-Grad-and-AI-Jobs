@@ -1,0 +1,19 @@
+# Disclosed pay (USD)
+
+Sorted by maximum disclosed figure. Unknown compensation is omitted here and shown as **Not disclosed** in the company directory.
+
+| Rank | Logo | Company | Role | Min | Max | Type |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | <img src="../logos/xpeng.png" alt="XPENG" width="28" height="28" /> | [XPENG](../README.md#company-xpeng) | [Software Engineer, Computing Platform (New Graduate)](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) | 124091 | 210000 | Published base range |
+| 2 | <img src="../logos/spacex.svg" alt="SpaceX" width="28" height="28" /> | [SpaceX](../README.md#company-spacex) | [New Graduate Engineer, Software ('26/'27)](https://job-boards.greenhouse.io/spacex/jobs/8696080002) | 135000 | 210000 | Base varies by level: L1 $135–175k; L2 $155–210k |
+| 3 | <img src="../logos/atoms.png" alt="Atoms" width="28" height="28" /> | [Atoms](../README.md#company-atoms) | [AI Researcher - New Grad (PhD)](https://job-boards.greenhouse.io/atoms/jobs/8924635002) | 190000 | 190000 | Published base (plus equity / bonus eligibility) |
+| 4 | <img src="../logos/pylon.svg" alt="Pylon" width="28" height="28" /> | [Pylon](../README.md#company-pylon) | [Software Engineer, New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) | 150000 | 180000 | Published annual base range |
+| 5 | <img src="../logos/sierra-mark.png" alt="Sierra" width="28" height="28" /> | [Sierra](../README.md#company-sierra) | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) | 150000 | 180000 | Published compensation range + equity |
+| 6 | <img src="../logos/chalk.svg" alt="Chalk" width="28" height="28" /> | [Chalk](../README.md#company-chalk) | [Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) | 170000 | 180000 | Published compensation range + equity |
+| 7 | <img src="../logos/openai.svg" alt="OpenAI" width="28" height="28" /> | [OpenAI](../README.md#company-openai) | [Software Engineer, Applied Emerging Talent (2027)](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511) | 180000 | 180000 | Published salary range |
+| 8 | <img src="../logos/atoms.png" alt="Atoms" width="28" height="28" /> | [Atoms](../README.md#company-atoms) | [AI Researcher - New Grad (BS/MS)](https://job-boards.greenhouse.io/atoms/jobs/8948841002) | 170000 | 170000 | Published base (plus equity / bonus eligibility) |
+| 9 | <img src="../logos/whatnot.svg" alt="Whatnot" width="28" height="28" /> | [Whatnot](../README.md#company-whatnot) | [Software Engineer, 2027 New Grad](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930) | 155000 | 160000 | Published base range + equity |
+| 10 | <img src="../logos/astera-labs.png" alt="Astera Labs" width="28" height="28" /> | [Astera Labs](../README.md#company-astera-labs) | [Applied AI NCG](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) | 140000 | 155000 | Published salary range |
+| 11 | <img src="../logos/authentic.png" alt="Authentic" width="28" height="28" /> | [Authentic](../README.md#company-authentic) | [New Grad Software Engineer](https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009) | 130000 | 145000 | Base + equity |
+| 12 | <img src="../logos/further.svg" alt="Further" width="28" height="28" /> | [Further](../README.md#company-further) | [Graduate Program: Entry Level Developer 2027](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002) | 68000 | 70000 | Published base range |
+| 13 | <img src="../logos/further.svg" alt="Further" width="28" height="28" /> | [Further](../README.md#company-further) | [Graduate Program: Entry Level Analytics Developer 2027](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002) | 65000 | 68000 | Published base range |
