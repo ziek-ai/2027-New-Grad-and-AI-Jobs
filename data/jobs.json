@@ -27,7 +27,7 @@
     "requisitionId": "gh:4731594005",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J002",
@@ -57,7 +57,7 @@
     "requisitionId": "gh:4114318009",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J003",
@@ -87,7 +87,7 @@
     "requisitionId": "gh:8962912002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J004",
@@ -117,7 +117,7 @@
     "requisitionId": "gh:8696080002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J005",
@@ -147,7 +147,7 @@
     "requisitionId": "gh:8906198002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J006",
@@ -177,7 +177,7 @@
     "requisitionId": "gh:8932692002",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J007",
@@ -207,7 +207,7 @@
     "requisitionId": "gh:4751955005",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J008",
@@ -237,7 +237,7 @@
     "requisitionId": "gh:6359139003",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J009",
@@ -267,7 +267,7 @@
     "requisitionId": "ashby:29bad846-de60-4be7-a222-69b97e044930",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J010",
@@ -297,7 +297,7 @@
     "requisitionId": "ashby:38814ce7-217b-40f2-9ba5-8a7733a5691d",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J011",
@@ -327,7 +327,7 @@
     "requisitionId": "ashby:149f368c-52d5-408f-ba26-ad888f318a00",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   },
   {
     "id": "J012",
@@ -357,6 +357,156 @@
     "requisitionId": "ashby:927c74a5-1b40-490d-b3be-a29baec4db6f",
     "status": "active",
     "addedAt": "2026-11-26T05:33:54.176Z",
-    "lastVerifiedAt": "2026-11-26T06:32:54.176Z"
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+  },
+  {
+    "id": "J013",
+    "companyId": "C012",
+    "company": "Atoms",
+    "role": "AI Researcher - New Grad (BS/MS)",
+    "category": "Research",
+    "careerLevel": "new_grad",
+    "location": "San Francisco, CA",
+    "workplace": "onsite",
+    "salaryMinUsd": 170000,
+    "salaryMaxUsd": 170000,
+    "salaryType": "Published base (plus equity / bonus eligibility)",
+    "eligibility": "Recent graduate or completing Bachelor’s or Master’s in CS, EECS, Robotics, AI, or related",
+    "summary": "Bridge high-level AI research and real-world Physical AI systems at Atoms.",
+    "description": "New Grad AI Researcher (BS/MS) on Atoms’ founding research track — Physical AI / robotics for food, mining, and transport. SF onsite five days/week. Base salary stated at $170,000/year plus equity eligibility.",
+    "applyUrl": "https://job-boards.greenhouse.io/atoms/jobs/8948841002",
+    "plannedPostDateEt": "2026-11-26",
+    "publishStatus": "planned",
+    "publishedAtEt": null,
+    "linkedinPostUrl": null,
+    "sourceReviewedAt": "2026-11-26",
+    "logoPath": "logos/atoms.png",
+    "notes": "Sourced from Grace Gong hiring list scan; engineering/research new-grad only.",
+    "parentLinkedInPostId": "LI-GRACE-OMR-298",
+    "provider": "greenhouse",
+    "requisitionId": "gh:8948841002",
+    "status": "active",
+    "addedAt": "2026-11-26T18:42:53.054Z",
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+  },
+  {
+    "id": "J014",
+    "companyId": "C012",
+    "company": "Atoms",
+    "role": "AI Researcher - New Grad (PhD)",
+    "category": "Research",
+    "careerLevel": "new_grad",
+    "location": "San Francisco, CA",
+    "workplace": "onsite",
+    "salaryMinUsd": 190000,
+    "salaryMaxUsd": 190000,
+    "salaryType": "Published base (plus equity / bonus eligibility)",
+    "eligibility": "PhD in CS, EECS, Robotics, AI, or related (completed or expected this academic year)",
+    "summary": "PhD new-grad AI research role bridging papers and Physical AI deployment.",
+    "description": "New Grad AI Researcher (PhD) at Atoms — research-to-production Physical AI. SF onsite five days/week. Base salary stated at $190,000/year plus equity eligibility.",
+    "applyUrl": "https://job-boards.greenhouse.io/atoms/jobs/8924635002",
+    "plannedPostDateEt": "2026-11-26",
+    "publishStatus": "planned",
+    "publishedAtEt": null,
+    "linkedinPostUrl": null,
+    "sourceReviewedAt": "2026-11-26",
+    "logoPath": "logos/atoms.png",
+    "notes": "Sourced from Grace Gong hiring list scan.",
+    "parentLinkedInPostId": "LI-GRACE-OMR-298",
+    "provider": "greenhouse",
+    "requisitionId": "gh:8924635002",
+    "status": "active",
+    "addedAt": "2026-11-26T18:42:53.054Z",
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+  },
+  {
+    "id": "J015",
+    "companyId": "C010",
+    "company": "Sierra",
+    "role": "APX (New Grad 2027)",
+    "category": "AI",
+    "careerLevel": "new_grad",
+    "location": "San Francisco, CA",
+    "workplace": "onsite",
+    "salaryMinUsd": null,
+    "salaryMaxUsd": null,
+    "salaryType": null,
+    "eligibility": "Undergraduate or Master’s graduating by June 2027",
+    "summary": "Sierra rotational program for next-gen AI builders across agent development and core product.",
+    "description": "APX is Sierra’s New Grad 2027 rotational program — build AI agents with customers, write code, design products, and rotate across Agent Development and Core Product. On-site San Francisco.",
+    "applyUrl": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "plannedPostDateEt": "2026-11-26",
+    "publishStatus": "planned",
+    "publishedAtEt": null,
+    "linkedinPostUrl": null,
+    "sourceReviewedAt": "2026-11-26",
+    "logoPath": "logos/sierra-mark.png",
+    "notes": "From Grace Gong list company Sierra; pay not disclosed on posting.",
+    "parentLinkedInPostId": "LI-GRACE-OMR-298",
+    "provider": "ashby",
+    "requisitionId": "ashby:d9c445da-c7b4-43a3-8d71-d367681c3015",
+    "status": "active",
+    "addedAt": "2026-11-26T18:42:53.054Z",
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+  },
+  {
+    "id": "J016",
+    "companyId": "C010",
+    "company": "Sierra",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "category": "AI",
+    "careerLevel": "new_grad",
+    "location": "Singapore",
+    "workplace": "onsite",
+    "salaryMinUsd": null,
+    "salaryMaxUsd": null,
+    "salaryType": null,
+    "eligibility": "New Grad 2027",
+    "summary": "Production AI agents — Singapore onsite New Grad 2027 SWE track.",
+    "description": "Sierra Software Engineer, Agent (New Grad 2027) — Singapore. Same Agent SWE new-grad program as SF/NY locations; on-site.",
+    "applyUrl": "https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce",
+    "plannedPostDateEt": "2026-11-26",
+    "publishStatus": "planned",
+    "publishedAtEt": null,
+    "linkedinPostUrl": null,
+    "sourceReviewedAt": "2026-11-26",
+    "logoPath": "logos/sierra-mark.png",
+    "notes": "Additional location from Sierra board; Grace Gong list company.",
+    "parentLinkedInPostId": "LI-GRACE-OMR-298",
+    "provider": "ashby",
+    "requisitionId": "ashby:79953d72-60d4-43e0-8c8c-6eccda422dce",
+    "status": "active",
+    "addedAt": "2026-11-26T18:42:53.054Z",
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
+  },
+  {
+    "id": "J017",
+    "companyId": "C010",
+    "company": "Sierra",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "category": "AI",
+    "careerLevel": "new_grad",
+    "location": "London",
+    "workplace": "onsite",
+    "salaryMinUsd": null,
+    "salaryMaxUsd": null,
+    "salaryType": null,
+    "eligibility": "New Grad 2027",
+    "summary": "Production AI agents — London onsite New Grad 2027 SWE track.",
+    "description": "Sierra Software Engineer, Agent (New Grad 2027) — London. Agent SWE new-grad program; on-site.",
+    "applyUrl": "https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db",
+    "plannedPostDateEt": "2026-11-26",
+    "publishStatus": "planned",
+    "publishedAtEt": null,
+    "linkedinPostUrl": null,
+    "sourceReviewedAt": "2026-11-26",
+    "logoPath": "logos/sierra-mark.png",
+    "notes": "Additional location from Sierra board; Grace Gong list company.",
+    "parentLinkedInPostId": "LI-GRACE-OMR-298",
+    "provider": "ashby",
+    "requisitionId": "ashby:d0e78ab0-92ac-4fec-a667-837fa371b1db",
+    "status": "active",
+    "addedAt": "2026-11-26T18:42:53.054Z",
+    "lastVerifiedAt": "2026-11-26T19:42:23.100Z"
   }
 ]

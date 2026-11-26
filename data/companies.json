@@ -108,5 +108,15 @@
     "hq": "San Francisco / New York",
     "about": "Production AI platform; Forward Deployed Engineer new-grad track.",
     "notes": "FDE title, not classic SWE."
+  },
+  {
+    "id": "C012",
+    "name": "Atoms",
+    "website": "https://atoms.co",
+    "careersUrl": "https://atoms.co/careers",
+    "logoPath": "logos/atoms.png",
+    "hq": "Los Angeles / San Francisco, CA",
+    "about": "Physical AI and robotics for real-world industry operations.",
+    "notes": "From Grace Gong remote-hiring AI list (On My Radar). New-grad research roles are SF onsite."
   }
 ]

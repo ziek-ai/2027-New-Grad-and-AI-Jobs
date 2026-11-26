@@ -9,8 +9,13 @@ Recheck each posting before you apply — listings go stale.
 | | Company | Role | Location | Pay (USD) | Apply |
 | --- | --- | --- | --- | --- | --- |
 | <img src="logos/astera-labs.png" alt="Astera Labs" width="28" height="28" /> | **Astera Labs** | **Applied AI NCG** | San Jose, CA | $140k–$155k | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
+| <img src="logos/atoms.png" alt="Atoms" width="28" height="28" /> | **Atoms** | **AI Researcher - New Grad (BS/MS)** | San Francisco, CA | $170k–$170k | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8948841002) |
+| <img src="logos/atoms.png" alt="Atoms" width="28" height="28" /> | **Atoms** | **AI Researcher - New Grad (PhD)** | San Francisco, CA | $190k–$190k | [Apply](https://job-boards.greenhouse.io/atoms/jobs/8924635002) |
 | <img src="logos/authentic.png" alt="Authentic" width="28" height="28" /> | **Authentic** | **New Grad Software Engineer** | New York, NY | $130k–$145k | [Apply](https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009) |
 | <img src="logos/pylon.svg" alt="Pylon" width="28" height="28" /> | **Pylon** | **Software Engineer, New Grad** | San Francisco, CA | $150k–$180k | [Apply](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) |
+| <img src="logos/sierra-mark.png" alt="Sierra" width="28" height="28" /> | **Sierra** | **APX (New Grad 2027)** | San Francisco, CA | Not disclosed | [Apply](https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015) |
+| <img src="logos/sierra-mark.png" alt="Sierra" width="28" height="28" /> | **Sierra** | **Software Engineer, Agent (New Grad 2027)** | Singapore | Not disclosed | [Apply](https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) |
+| <img src="logos/sierra-mark.png" alt="Sierra" width="28" height="28" /> | **Sierra** | **Software Engineer, Agent (New Grad 2027)** | London | Not disclosed | [Apply](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) |
 | <img src="logos/whatnot.svg" alt="Whatnot" width="28" height="28" /> | **Whatnot** | **Software Engineer, 2027 New Grad** | NY / LA / SF / Seattle | $155k–$160k | [Apply](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930) |
 | <img src="logos/chalk.svg" alt="Chalk" width="28" height="28" /> | **Chalk** | **Forward Deployed Engineer - New Grad** | San Francisco / New York | $170k–$180k | [Apply](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) |
 | <img src="logos/sierra-mark.png" alt="Sierra" width="28" height="28" /> | **Sierra** | **Software Engineer, Agent (New Grad 2027)** | San Francisco / New York | $150k–$180k | [Apply](https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00) |
