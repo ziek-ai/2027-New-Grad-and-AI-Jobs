@@ -98,5 +98,15 @@
     "hq": "Los Angeles / San Francisco, CA",
     "about": "Physical AI and robotics for real-world industry operations.",
     "notes": "From Grace Gong remote-hiring AI list (On My Radar). New-grad research roles are SF onsite."
+  },
+  {
+    "id": "C013",
+    "name": "OpenAI",
+    "website": "https://openai.com",
+    "careersUrl": "https://jobs.ashbyhq.com/openai",
+    "logoPath": "logos/openai.svg",
+    "hq": "San Francisco, CA",
+    "about": "AI research and deployment company building ChatGPT, the OpenAI API, and related products.",
+    "notes": "Added from Grace Gong remote-AI list soft YOE sweep (Emerging Talent 2027)."
   }
 ]
