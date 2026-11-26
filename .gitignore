@@ -1,0 +1,10 @@
+# Generated maintainer views — run `npm run generate` locally
+companies/
+jobs/
+indexes/
+
+# Local env / OS
+.env
+.env.*
+.DS_Store
+node_modules/

@@ -1,0 +1,27 @@
+name: report-closure
+description: Request a human-reviewed listing change
+title: "[report-closure] "
+body:
+  - type: input
+    id: employer
+    attributes:
+      label: Employer and role
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original employer application URL
+    validations:
+      required: true
+  - type: input
+    id: requisition
+    attributes:
+      label: Canonical job ID and requisition ID (if known)
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Short evidence and date checked
+      description: Do not paste full JDs, credentials or candidate information. A failed request alone is not closure evidence.
+    validations:
+      required: true

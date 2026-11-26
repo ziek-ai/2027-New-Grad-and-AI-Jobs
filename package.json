@@ -1,0 +1,16 @@
+{
+	"name": "ziek-2027-new-grad-jobs-db",
+	"private": true,
+	"type": "module",
+	"description": "Ziek Jobs DB — curated 2027 new-grad and early-career engineering roles with logos, pay, and direct employer links.",
+	"scripts": {
+		"check": "node scripts/validate.mjs --check-format && node scripts/generate-readme.mjs --check",
+		"generate": "node scripts/generate-readme.mjs",
+		"links": "node scripts/check-links.mjs",
+		"test": "node --test scripts/*.test.mjs",
+		"release:check": "npm test && npm run generate && npm run check && node scripts/release-check.mjs"
+	},
+	"engines": {
+		"node": ">=24"
+	}
+}

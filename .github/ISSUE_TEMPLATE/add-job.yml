@@ -1,0 +1,46 @@
+name: add-job
+description: Propose a new-grad / early-career role (no internships)
+title: "[add-job] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Internships and co-ops are out of scope** and will be closed.
+        Provide the employer's own apply link. Do not paste full JDs or personal data.
+  - type: dropdown
+    id: level
+    attributes:
+      label: Career level
+      options:
+        - new_grad
+        - early_career
+        - entry
+    validations:
+      required: true
+  - type: input
+    id: employer
+    attributes:
+      label: Employer and role title
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original employer application URL (HTTPS)
+    validations:
+      required: true
+  - type: input
+    id: requisition
+    attributes:
+      label: Requisition / posting ID (if known)
+  - type: input
+    id: pay
+    attributes:
+      label: Disclosed pay (only if employer published it)
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Short evidence and date checked
+      description: Graduation window / location / anything material. No full JD paste.
+    validations:
+      required: true

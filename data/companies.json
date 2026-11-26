@@ -1,0 +1,112 @@
+[
+  {
+    "id": "C001",
+    "name": "Astera Labs",
+    "website": "https://www.asteralabs.com",
+    "careersUrl": "https://job-boards.greenhouse.io/asteraearlycareer2027",
+    "logoPath": "logos/astera-labs.png",
+    "hq": "San Jose, CA",
+    "about": "Semiconductor connectivity for cloud and AI infrastructure (NASDAQ: ALAB).",
+    "notes": null
+  },
+  {
+    "id": "C002",
+    "name": "Authentic",
+    "website": "https://www.authentic.com",
+    "careersUrl": "https://job-boards.greenhouse.io/authenticinsurance",
+    "logoPath": "logos/authentic.png",
+    "hq": "New York, NY",
+    "about": "Insurance technology company hiring full-stack new grads.",
+    "notes": null
+  },
+  {
+    "id": "C003",
+    "name": "XPENG",
+    "website": "https://www.xpeng.com",
+    "careersUrl": "https://job-boards.greenhouse.io/xpengmotors",
+    "logoPath": "logos/xpeng.png",
+    "hq": "Santa Clara, CA",
+    "about": "Smart EV maker; US computing-platform new-grad engineering roles.",
+    "notes": null
+  },
+  {
+    "id": "C004",
+    "name": "SpaceX",
+    "website": "https://www.spacex.com",
+    "careersUrl": "https://job-boards.greenhouse.io/spacex",
+    "logoPath": "logos/spacex.svg",
+    "hq": "Hawthorne, CA",
+    "about": "Space launch and Starlink; new-graduate software across networking and systems.",
+    "notes": "Export-control conditions may apply."
+  },
+  {
+    "id": "C005",
+    "name": "Further",
+    "website": "https://www.gofurther.com",
+    "careersUrl": "https://job-boards.greenhouse.io/furtherearlycareer",
+    "logoPath": "logos/further.svg",
+    "hq": "United States",
+    "about": "Data and AI consultancy graduate programs (Dallas / Cleveland hybrid).",
+    "notes": "No sponsorship stated on graduate postings."
+  },
+  {
+    "id": "C006",
+    "name": "The Brattle Group",
+    "website": "https://www.brattle.com",
+    "careersUrl": "https://job-boards.greenhouse.io/thebrattlegroup",
+    "logoPath": "logos/the-brattle-group.png",
+    "hq": "Boston, MA",
+    "about": "Economic consulting; Data and AI Engineer early-career track.",
+    "notes": "No immigration sponsorship stated."
+  },
+  {
+    "id": "C007",
+    "name": "Wonderschool",
+    "website": "https://www.wonderschool.com",
+    "careersUrl": "https://job-boards.greenhouse.io/wonderschool",
+    "logoPath": "logos/wonderschool.svg",
+    "hq": "San Francisco, CA",
+    "about": "Early childhood platform; early-career applied AI engineering.",
+    "notes": "Strong in-office expectation (review posting)."
+  },
+  {
+    "id": "C008",
+    "name": "Whatnot",
+    "website": "https://www.whatnot.com",
+    "careersUrl": "https://jobs.ashbyhq.com/whatnot",
+    "logoPath": "logos/whatnot.svg",
+    "hq": "United States",
+    "about": "Live commerce marketplace; 2027 new-grad software engineering.",
+    "notes": null
+  },
+  {
+    "id": "C009",
+    "name": "Pylon",
+    "website": "https://www.usepylon.com",
+    "careersUrl": "https://jobs.ashbyhq.com/pylon-labs",
+    "logoPath": "logos/pylon.svg",
+    "hq": "San Francisco, CA",
+    "about": "Agentic B2B support platform; on-site new-grad software engineering.",
+    "notes": "On-site SF."
+  },
+  {
+    "id": "C010",
+    "name": "Sierra",
+    "website": "https://sierra.ai",
+    "careersUrl": "https://jobs.ashbyhq.com/Sierra",
+    "logoPath": "logos/sierra.png",
+    "hq": "San Francisco, CA",
+    "about": "Customer-facing AI agents platform; New Grad 2027 Agent SWE.",
+    "notes": null
+  },
+  {
+    "id": "C011",
+    "name": "Chalk",
+    "website": "https://www.chalk.ai",
+    "careersUrl": "https://jobs.ashbyhq.com/chalk",
+    "logoPath": "logos/chalk.svg",
+    "hq": "San Francisco / New York",
+    "about": "Production AI platform; Forward Deployed Engineer new-grad track.",
+    "notes": "FDE title, not classic SWE."
+  }
+]
