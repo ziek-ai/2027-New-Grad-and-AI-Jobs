@@ -1,6 +1,6 @@
 # 2027 New Grad & AI Jobs
 
-US new-grad engineering roles only. Direct employer apply links. No internships. No non-US listings.
+US new-grad engineering roles only. Direct employer apply links.
 
 Recheck each posting before you apply — listings go stale.
 
