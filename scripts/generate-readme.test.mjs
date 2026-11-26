@@ -58,15 +58,17 @@ test("featured discoveries only link jobs present in the public set", () => {
 	}
 });
 
-test("rendered catalog counts match data and mention every public job apply URL", () => {
+test("rendered catalog stays compact and lists every public job apply URL", () => {
 	const markdown = renderReadmeCatalog({ publicJobs, allCompanies: companies });
-	assert.match(markdown, new RegExp(`Verified job records \\| \\*\\*${publicJobs.length}\\*\\*`));
+	const companyCount = companiesWithJobs(publicJobs, companies).length;
 	assert.match(
 		markdown,
-		new RegExp(
-			`Companies \\| \\*\\*${companiesWithJobs(publicJobs, companies).length}\\*\\*`,
-		),
+		new RegExp(`\\*\\*${publicJobs.length} jobs · ${companyCount} companies · United States\\*\\*`),
 	);
+	assert.ok(markdown.includes("Your next opportunity might have a job title you've never searched for."));
+	assert.ok(!markdown.includes("Featured career discoveries"));
+	assert.ok(!markdown.includes("Your career is bigger than your job search"));
+	assert.ok(!markdown.includes("| Catalog | Count |"));
 	for (const job of publicJobs) {
 		assert.ok(markdown.includes(job.applyUrl), `missing apply URL for ${job.id}`);
 		assert.ok(markdown.includes(job.role), `missing role for ${job.id}`);

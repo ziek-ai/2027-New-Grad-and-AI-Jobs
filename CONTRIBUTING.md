@@ -1,6 +1,6 @@
 # Contributing (maintainers)
 
-Public README is a **company-first career discovery catalog** generated from validated US new-grad roles.
+Public README is a compact company-first catalog generated from validated US new-grad roles.
 
 Rules:
 - `careerLevel` must be `new_grad`

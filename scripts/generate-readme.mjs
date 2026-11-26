@@ -9,12 +9,48 @@ export function selectPublicJobs(allJobs) {
 }
 
 export const DIRECTIONS = [
-	{ id: "ai", title: "AI applications and agents", categories: ["AI"], anchor: "ai" },
-	{ id: "research", title: "AI research", categories: ["Research", "ML"], anchor: "research" },
-	{ id: "swe", title: "Software engineering", categories: ["SWE"], anchor: "swe" },
-	{ id: "fde", title: "Forward-deployed engineering", categories: ["FDE"], anchor: "fde" },
-	{ id: "infrastructure", title: "Infrastructure", categories: ["Infrastructure"], anchor: "infrastructure" },
-	{ id: "data", title: "Data and analytics", categories: ["Data"], anchor: "data" },
+	{
+		id: "ai",
+		title: "AI applications and agents",
+		nav: "AI",
+		categories: ["AI"],
+		anchor: "ai",
+	},
+	{
+		id: "research",
+		title: "AI research",
+		nav: "Research",
+		categories: ["Research", "ML"],
+		anchor: "research",
+	},
+	{
+		id: "swe",
+		title: "Software engineering",
+		nav: "Software",
+		categories: ["SWE"],
+		anchor: "swe",
+	},
+	{
+		id: "fde",
+		title: "Forward-deployed engineering",
+		nav: "FDE",
+		categories: ["FDE"],
+		anchor: "fde",
+	},
+	{
+		id: "infrastructure",
+		title: "Infrastructure",
+		nav: "Infrastructure",
+		categories: ["Infrastructure"],
+		anchor: "infrastructure",
+	},
+	{
+		id: "data",
+		title: "Data and analytics",
+		nav: "Data",
+		categories: ["Data"],
+		anchor: "data",
+	},
 ];
 
 const labels = {
@@ -192,25 +228,6 @@ export function buildFeaturedDiscoveries(publicJobs) {
 	}));
 }
 
-function renderFeatured(features) {
-	if (!features.length) return "_No featured discoveries available for the current catalog._";
-	return features
-		.map((feature, index) => {
-			const links = feature.jobs
-				.map(
-					(job) =>
-						`[${esc(job.company)} — ${esc(job.role)}](${url(job.applyUrl)}) · [company](#company-${companySlug(job.company)})`,
-				)
-				.join("<br>");
-			return (
-				`${index + 1}. **${esc(feature.title)}**\n\n` +
-				`   ${esc(feature.body)}\n\n` +
-				`   ${links}`
-			);
-		})
-		.join("\n\n");
-}
-
 function renderCompanyDirectory(grouped) {
 	return grouped
 		.map(({ company, jobs: rows }) => {
@@ -233,62 +250,38 @@ export function renderReadmeCatalog({ publicJobs, allCompanies }) {
 	const grouped = companiesWithJobs(publicJobs, allCompanies);
 	const directions = activeDirections(publicJobs);
 	const stats = catalogStats(publicJobs, grouped);
-	const featured = buildFeaturedDiscoveries(publicJobs);
-	const verificationLine = stats.lastVerifiedDay
-		? `Latest listing verification in this catalog: **${stats.lastVerifiedDay}** (per-row dates below). Recheck every employer posting before you apply — openings change.`
-		: `Verification dates are listed per role below. Recheck every employer posting before you apply — openings change.`;
 
 	const directionNav = directions.length
 		? directions
 				.map(
 					(direction) =>
-						`- [${esc(direction.title)}](indexes/functions.md#${direction.anchor}) (${direction.count})`,
+						`[${esc(direction.nav)}](indexes/functions.md#${direction.anchor})`,
 				)
-				.join("\n")
-		: "- _No categorized roles in the current public set._";
+				.join(" · ")
+		: "";
+
+	const footerVerified = stats.lastVerifiedDay
+		? `Last verified **${stats.lastVerifiedDay}**. Recheck employer postings before applying.`
+		: `Recheck employer postings before applying — openings change.`;
 
 	return [
-		`## Your CS degree isn't just for Software Engineering.`,
+		`**Your next opportunity might have a job title you've never searched for.**`,
 		``,
-		`Explore graduate opportunities across AI research, agent engineering, software, infrastructure, data and forward-deployed engineering.`,
+		`Explore US new-grad opportunities across software engineering, AI, research, data and infrastructure.`,
 		``,
-		`**Your career is bigger than your job search.** Discover opportunities you didn't know existed. Understand what employers need. Explore where your skills could take you next.`,
+		`We go beyond job titles to highlight employer requirements, eligibility, compensation and direct application links.`,
 		``,
-		`| Catalog | Count |`,
-		`| --- | --- |`,
-		`| Verified job records | **${stats.jobCount}** |`,
-		`| Companies | **${stats.companyCount}** |`,
-		`| Role categories present | ${esc(stats.categoryLabel)} |`,
-		`| Geographic scope | United States |`,
-		``,
-		verificationLine,
-		``,
-		`## Discover by career direction`,
-		``,
-		`Only directions with at least one current listing are shown. Counts come from this repository's validated data.`,
+		`**${stats.jobCount} jobs · ${stats.companyCount} companies · United States**`,
 		``,
 		directionNav,
 		``,
-		`Full function index: [indexes/functions.md](indexes/functions.md) · [all companies](indexes/companies.md) · [recent](indexes/recent.md) · [disclosed pay](indexes/salary.md)`,
-		``,
-		`## Featured career discoveries`,
-		``,
-		`Short, employer-backed examples from listings already in this catalog. They highlight adjacent paths and differing requirements — they do **not** expand eligibility.`,
-		``,
-		renderFeatured(featured),
-		``,
-		`## Browse companies and their openings`,
-		``,
-		`Companies are alphabetical. Every qualifying role for an employer appears together. Pay shows only disclosed figures; otherwise **Not disclosed**. Apply links go to the original employer posting — no account required here.`,
+		`## Companies`,
 		``,
 		renderCompanyDirectory(grouped),
 		``,
-		`## Open access`,
+		`---`,
 		``,
-		`- Browse and apply through direct employer links above — no Ziek login, subscription, or waitlist required to use this directory.`,
-		`- Source data lives in [\`data/jobs.json\`](data/jobs.json) and [\`data/companies.json\`](data/companies.json); schema in [\`data/SCHEMA.md\`](data/SCHEMA.md).`,
-		`- Suggest corrections or new US new-grad roles via [GitHub Issues](https://github.com/ziek-ai/2027-New-Grad-and-AI-Jobs/issues) / [CONTRIBUTING.md](CONTRIBUTING.md).`,
-		`- Optional: follow Ziek elsewhere if useful — this repository stays useful on its own.`,
+		`${footerVerified} Source: [\`data/jobs.json\`](data/jobs.json), [\`data/companies.json\`](data/companies.json). Indexes: [functions](indexes/functions.md) · [companies](indexes/companies.md) · [pay](indexes/salary.md) · [recent](indexes/recent.md). Contribute via [Issues](https://github.com/ziek-ai/2027-New-Grad-and-AI-Jobs/issues) / [CONTRIBUTING.md](CONTRIBUTING.md).`,
 	].join("\n");
 }
 

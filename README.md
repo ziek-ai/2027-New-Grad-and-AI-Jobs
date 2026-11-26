@@ -1,62 +1,18 @@
 # 2027 New Grad & AI Jobs
 
-Open-access US new-grad engineering and research directory maintained as machine-readable data in this repository.
-
 <!-- CATALOG:START -->
 
-## Your CS degree isn't just for Software Engineering.
+**Your next opportunity might have a job title you've never searched for.**
 
-Explore graduate opportunities across AI research, agent engineering, software, infrastructure, data and forward-deployed engineering.
+Explore US new-grad opportunities across software engineering, AI, research, data and infrastructure.
 
-**Your career is bigger than your job search.** Discover opportunities you didn't know existed. Understand what employers need. Explore where your skills could take you next.
+We go beyond job titles to highlight employer requirements, eligibility, compensation and direct application links.
 
-| Catalog | Count |
-| --- | --- |
-| Verified job records | **14** |
-| Companies | **11** |
-| Role categories present | AI, Data, FDE, Infrastructure, Research, SWE |
-| Geographic scope | United States |
+**14 jobs · 11 companies · United States**
 
-Latest listing verification in this catalog: **2026-11-26** (per-row dates below). Recheck every employer posting before you apply — openings change.
+[AI](indexes/functions.md#ai) · [Research](indexes/functions.md#research) · [Software](indexes/functions.md#swe) · [FDE](indexes/functions.md#fde) · [Infrastructure](indexes/functions.md#infrastructure) · [Data](indexes/functions.md#data)
 
-## Discover by career direction
-
-Only directions with at least one current listing are shown. Counts come from this repository's validated data.
-
-- [AI applications and agents](indexes/functions.md#ai) (3)
-- [AI research](indexes/functions.md#research) (2)
-- [Software engineering](indexes/functions.md#swe) (6)
-- [Forward-deployed engineering](indexes/functions.md#fde) (1)
-- [Infrastructure](indexes/functions.md#infrastructure) (1)
-- [Data and analytics](indexes/functions.md#data) (1)
-
-Full function index: [indexes/functions.md](indexes/functions.md) · [all companies](indexes/companies.md) · [recent](indexes/recent.md) · [disclosed pay](indexes/salary.md)
-
-## Featured career discoveries
-
-Short, employer-backed examples from listings already in this catalog. They highlight adjacent paths and differing requirements — they do **not** expand eligibility.
-
-1. **Backend-curious graduates can explore forward-deployed engineering**
-
-   Authentic's New Grad Software Engineer is a classic software track. Chalk's Forward Deployed Engineer - New Grad is customer-facing systems work with a different day-to-day — still employer-defined new-grad hiring, not an automatic alternate path.
-
-   [Authentic — New Grad Software Engineer](https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009) · [company](#company-authentic)<br>[Chalk — Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) · [company](#company-chalk)
-
-2. **Eligibility signals differ even among new-grad titles**
-
-   Pylon (Software Engineer, New Grad) publishes pathways that include relevant projects or adjacent experience. Chalk (Forward Deployed Engineer - New Grad) states a more explicit experience or education bar. Read each posting — adjacent skills never invent eligibility.
-
-   [Pylon — Software Engineer, New Grad](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d) · [company](#company-pylon)<br>[Chalk — Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) · [company](#company-chalk)
-
-3. **AI research openings split by degree track**
-
-   Atoms lists both AI Researcher - New Grad (BS/MS) and AI Researcher - New Grad (PhD). Educational expectations are employer-stated and not interchangeable.
-
-   [Atoms — AI Researcher - New Grad (BS/MS)](https://job-boards.greenhouse.io/atoms/jobs/8948841002) · [company](#company-atoms)<br>[Atoms — AI Researcher - New Grad (PhD)](https://job-boards.greenhouse.io/atoms/jobs/8924635002) · [company](#company-atoms)
-
-## Browse companies and their openings
-
-Companies are alphabetical. Every qualifying role for an employer appears together. Pay shows only disclosed figures; otherwise **Not disclosed**. Apply links go to the original employer posting — no account required here.
+## Companies
 
 <a id="company-astera-labs"></a>
 
@@ -149,11 +105,8 @@ Companies are alphabetical. Every qualifying role for an employer appears togeth
 | --- | --- | --- | --- | --- | --- | --- |
 | **Software Engineer, Computing Platform (New Graduate)** | Santa Clara, CA | On-site | $124k–$210k | 2026/27 graduate; refer to posting | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) |
 
-## Open access
+---
 
-- Browse and apply through direct employer links above — no Ziek login, subscription, or waitlist required to use this directory.
-- Source data lives in [`data/jobs.json`](data/jobs.json) and [`data/companies.json`](data/companies.json); schema in [`data/SCHEMA.md`](data/SCHEMA.md).
-- Suggest corrections or new US new-grad roles via [GitHub Issues](https://github.com/ziek-ai/2027-New-Grad-and-AI-Jobs/issues) / [CONTRIBUTING.md](CONTRIBUTING.md).
-- Optional: follow Ziek elsewhere if useful — this repository stays useful on its own.
+Last verified **2026-11-26**. Recheck employer postings before applying. Source: [`data/jobs.json`](data/jobs.json), [`data/companies.json`](data/companies.json). Indexes: [functions](indexes/functions.md) · [companies](indexes/companies.md) · [pay](indexes/salary.md) · [recent](indexes/recent.md). Contribute via [Issues](https://github.com/ziek-ai/2027-New-Grad-and-AI-Jobs/issues) / [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- CATALOG:END -->
